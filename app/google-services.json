@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "446241450479",
+    "firebase_url": "https://fir-boop.firebaseio.com",
+    "project_id": "firebase-boop",
+    "storage_bucket": "firebase-boop.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:446241450479:android:53e05fd37891bee4",
+        "android_client_info": {
+          "package_name": "com.makichung.boop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "446241450479-eenl28motk8alv7b6k9c2dmno6ofr9uo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.makichung.boop",
+            "certificate_hash": "42e8f5464095a7b8699ac1929be2bffc1a0004cd"
+          }
+        },
+        {
+          "client_id": "446241450479-44kdctpfrmrs0lb7d5ahgi66qlf9f0s5.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "446241450479-h3mbr17fu5vun3ip70ga80qte4u0kgai.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMrERWowDSpm-xuI_5HavhK8E9axZjWhI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

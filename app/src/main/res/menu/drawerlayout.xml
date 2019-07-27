@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/menuUsername"
+        android:title=""/>
+    9
+    <item android:id="@+id/total_boops"
+          android:title="Total Boops: "/>
+    <item android:id="@+id/add_new_friend"
+        android:title="Add New Friend"/>
+    <item android:id="@+id/token"
+        android:title=""/>
+
+</menu>

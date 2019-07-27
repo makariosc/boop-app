@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/friendItem">
+
+        <TextView
+            android:id="@+id/friendNameField"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="16dp"
+            android:textSize="23dp"
+            android:text="xXxMLGPrOxXx"/>
+
+        <TextView
+            android:id="@+id/fromField"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_marginEnd="11dp"
+            android:layout_marginRight="11dp"
+            android:layout_toLeftOf="@+id/toField"
+            android:layout_toStartOf="@+id/toField"
+            android:padding="16dp"
+            android:text="0"
+            android:textSize="23dp" />
+
+        <TextView
+            android:id="@+id/toField"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentTop="true"
+            android:padding="16dp"
+            android:textSize="23dp"
+            android:text="150"/>
+
+    </RelativeLayout>
+
+
+</LinearLayout>
